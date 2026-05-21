@@ -1,4 +1,4 @@
-## Customer-Churn_prediction
+## Customer-Churn-prediction
 Analyzed IBM Telco dataset (7K+ records) to predict customer churn using Logistic Regression.
 
 ## Tech Stack
